@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.33 193.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <g>
+        <rect class="cls-2" x=".5" y=".5" width="269.33" height="192.5" rx="14.41" ry="14.41"/>
+        <rect class="cls-2" x="29.31" y="41.24" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="73.25" y="41.24" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="117.19" y="41.24" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="161.13" y="41.24" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="205.08" y="41.24" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="29.31" y="85.47" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="73.25" y="85.47" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="117.19" y="85.47" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="161.13" y="85.47" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="205.08" y="85.47" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="29.31" y="129.71" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="73.25" y="129.71" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="117.19" y="129.71" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="161.13" y="129.71" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+        <rect class="cls-2" x="205.08" y="129.71" width="35.21" height="35.21" rx="6.97" ry="6.97"/>
+      </g>
+      <path class="cls-1" d="M144.13,100.61c1.59.85,2.2,2.82,1.35,4.42-.31.57-.78,1.04-1.35,1.35l-13.96,7.59c-2.25,1.22-5.01-.37-5.01-2.88v-15.18c0-2.52,2.76-4.11,5.01-2.89l13.96,7.59Z"/>
+    </g>
+  </g>
+</svg>
